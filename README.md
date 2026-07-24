@@ -1,6 +1,6 @@
-Here is a clean, professional, and highly readable `README.md` file tailored for your GitHub repository. It highlights the features, requirements, and usage of your auto-setup script.
 
-```markdown
+
+
 <p align="center">
   <img src="logo.jpg" alt="Fikrado Security Logo" width="250">
 </p>
@@ -11,7 +11,6 @@ Here is a clean, professional, and highly readable `README.md` file tailored for
   <strong>An automated, zero-configuration deployment script for uncensored local AI by Fikrado Security Labs.</strong>
 </p>
 
----
 
 ## 🚀 Overview
 
